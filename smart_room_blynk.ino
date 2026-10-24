@@ -21,9 +21,9 @@
 */
 
 // ====== THONG TIN BLYNK (thay bang cua ban) ======
-#define BLYNK_TEMPLATE_ID   "TMPLxxxxxx"
+#define BLYNK_TEMPLATE_ID "TMPL6CPppQDPZ"
 #define BLYNK_TEMPLATE_NAME "Smart Room IoT"
-#define BLYNK_AUTH_TOKEN    "YOUR_DEVICE_AUTH_TOKEN"
+#define BLYNK_AUTH_TOKEN "KkzfHA0_FcY3b6NvawqQjme_pUJOCh_8"
 #define BLYNK_PRINT Serial
 
 #include <WiFi.h>
